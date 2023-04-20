@@ -1,0 +1,17 @@
+#unorderlist{
+display: flex;
+}
+
+#list-num{
+    font-size: 20px;
+    font-weight: 100;
+}
+.inputbtn{
+    color: white;
+    background-color:blue;
+    border-color: blue;
+}
+table th {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
